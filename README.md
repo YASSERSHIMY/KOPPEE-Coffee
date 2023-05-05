@@ -6,4 +6,5 @@
     <li><a href="https://fontawesome.com/">Font Awesome</a></li>
     <li><a href="https://necolas.github.io/normalize.css/">Normalize.css</a></li>
     <li><a href="https://favicon.io/">Favicon.io</a></li>
-</ul># KOPPEE-Coffee
+</ul>
+<blockquote>You can visit the website <a href="https://yassershimy.github.io/KOPPEE-Coffee/"><b>here</b></a>.</blockquote>
